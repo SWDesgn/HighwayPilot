@@ -1,0 +1,10 @@
+﻿  Creating app_tmp.c
+  Using triplet "x64-windows" from "C:\devel\vcpkg\installed\x64-windows\"
+  Highway_Pilot.cpp
+  LatController.cpp
+  LongController.cpp
+  PID_Controller.cpp
+  User.cpp
+  Code wird generiert...
+  app_tmp.c
+  CarMaker.vcxproj -> U:\repo3\pse_2021_gruppe_01\src\CarMaker.win64.exe

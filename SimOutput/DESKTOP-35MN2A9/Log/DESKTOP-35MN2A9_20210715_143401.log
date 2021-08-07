@@ -1,0 +1,4739 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #138 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-15 14:30:41
+ 
+FIRST_INIT	(internal default used)	2021-07-15 14:34:02
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:34:02
+TIME	2.084
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-15 14:34:23
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Input Vel: 0.055782
+		Input ACC X,Y: -0.069734, 0.047015
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.001885, -0.102216
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.055782, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 2.726631
+		Input ACC X,Y: -0.041340, 8.132290
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.003510, -0.102860
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 2.726631, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	2.998
+		Input Vel: 12.930621
+		Input ACC X,Y: 0.202709, 9.684321
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: -0.027400, -0.103876
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 12.930621, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 18.465676
+		Input ACC X,Y: 0.841090, 10.971318
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.516741, -0.040149
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 18.465676, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 25.132491
+		Input ACC X,Y: -0.169050, 1.647513
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 1.030477, -0.100136
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.816522
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.132491, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	5.998
+		Input Vel: 30.167719
+		Input ACC X,Y: 1.336360, 4.401744
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.861594, -0.109035
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.581868
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.167719, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.750538
+		Input ACC X,Y: 1.216211, 1.414301
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.628102, -0.105895
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.461627
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.750538, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.408134
+		Input ACC X,Y: 1.923106, 3.335863
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.518584, -0.101271
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.435149
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.408134, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	8.998
+		Input Vel: 33.391780
+		Input ACC X,Y: 0.973097, -0.778884
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.518494, -0.098648
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.435967
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.391780, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.892594
+		Input ACC X,Y: 0.832267, -1.025584
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.547589, -0.098735
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.460926
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.892594, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.204022
+		Input ACC X,Y: 0.743626, -1.046774
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.568719, -0.099116
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.495354
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.204022, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	11.998
+		Input Vel: 31.484700
+		Input ACC X,Y: 0.702013, -0.927178
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.580141, -0.099453
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.531321
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.484700, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.852116
+		Input ACC X,Y: 0.707881, -0.722300
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.583574, -0.099683
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.562950
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.852116, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	13.998
+		Input Vel: 30.395974
+		Input ACC X,Y: 0.760940, -0.464418
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.580701, -0.099812
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.585757
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.395974, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.189310
+		Input ACC X,Y: 0.857199, -0.196949
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.573542, -0.099865
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.596090
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.189310, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	15.998
+		Input Vel: 30.254997
+		Input ACC X,Y: 0.941925, -0.027829
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.565990, -0.099919
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.592806
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.254997, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.548250
+		Input ACC X,Y: 1.035489, 0.094779
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.559210, -0.099867
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.578143
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.548250, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	17.998
+		Input Vel: 31.024500
+		Input ACC X,Y: 1.129733, 0.173122
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.553810, -0.099709
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.554331
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.024500, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.645575
+		Input ACC X,Y: 1.221118, 0.211566
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.549379, -0.099499
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.523277
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.645575, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	19.998
+		Input Vel: 32.377829
+		Input ACC X,Y: 1.306931, 0.214137
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.545209, -0.099290
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.486664
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.377829, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.191201
+		Input ACC X,Y: 1.384724, 0.184230
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.542377, -0.099114
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.445996
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.191201, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	21.998
+		Input Vel: 34.058396
+		Input ACC X,Y: 1.451845, 0.125289
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.541501, -0.098886
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.402636
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.058396, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 34.954464
+		Input ACC X,Y: 1.506219, 0.041357
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.542146, -0.098609
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.357832
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.954464, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	35.132
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	23.861s	647.97m
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-15 14:36:51
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Input Vel: 0.018317
+		Input ACC X,Y: 0.118451, 0.069817
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.002079, -0.102209
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.018317, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 0.061683
+		Input ACC X,Y: -0.042989, 0.047739
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.001911, -0.102223
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.061683, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	2.136
+		Input Vel: 3.789457
+		Input ACC X,Y: -0.001087, 8.913755
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.004841, -0.103291
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.789457, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 14.219244
+		Input ACC X,Y: 0.154045, 9.720674
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: -0.035016, -0.105030
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 14.219244, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 19.825556
+		Input ACC X,Y: 0.578228, 9.834093
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.658368, -0.043012
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 19.825556, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	5.136
+		Input Vel: 25.447935
+		Input ACC X,Y: 0.315835, 1.833854
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 1.022669, -0.103347
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.833159
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.447935, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.778456
+		Input ACC X,Y: 1.311413, 4.148260
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.815430, -0.108890
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.566633
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.778456, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.997536
+		Input ACC X,Y: 1.302231, -0.824734
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.595861, -0.104544
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.455679
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.997536, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	8.136
+		Input Vel: 33.589023
+		Input ACC X,Y: 0.846410, -0.309276
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.506088, -0.101046
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.426104
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.589023, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.399835
+		Input ACC X,Y: 0.955988, -0.849899
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.518327, -0.098651
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.435564
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.399835, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.850711
+		Input ACC X,Y: 0.818664, -1.051347
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.547389, -0.098710
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.463020
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.850711, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	11.136
+		Input Vel: 32.139958
+		Input ACC X,Y: 0.734098, -1.044814
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.569200, -0.099104
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.498558
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.139958, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.419470
+		Input ACC X,Y: 0.699330, -0.907942
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.580706, -0.099457
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.534582
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.419470, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.801808
+		Input ACC X,Y: 0.712495, -0.692124
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.583662, -0.099693
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.565465
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.801808, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	14.136
+		Input Vel: 30.373547
+		Input ACC X,Y: 0.772937, -0.426944
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.580060, -0.099820
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.586878
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.373547, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.204701
+		Input ACC X,Y: 0.869276, -0.175477
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.572537, -0.099867
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.595321
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.204701, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.304321
+		Input ACC X,Y: 0.955848, -0.009444
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.565011, -0.099917
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.590339
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.304321, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	17.136
+		Input Vel: 30.625065
+		Input ACC X,Y: 1.049609, 0.106677
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.558366, -0.099846
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.574302
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.625065, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.123248
+		Input ACC X,Y: 1.143678, 0.179176
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.553155, -0.099676
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.549393
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.123248, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.761310
+		Input ACC X,Y: 1.234477, 0.212334
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.548742, -0.099463
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.517490
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.761310, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	20.136
+		Input Vel: 32.506148
+		Input ACC X,Y: 1.319179, 0.209998
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.544695, -0.099259
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.480248
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.506148, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.328059
+		Input ACC X,Y: 1.395408, 0.175574
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.542140, -0.099082
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.439153
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.328059, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 34.200078
+		Input ACC X,Y: 1.460777, 0.112835
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.541551, -0.098845
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.395552
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.200078, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	23.136
+		Input Vel: 35.097562
+		Input ACC X,Y: 1.513063, 0.025736
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.542311, -0.098564
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.350677
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.097562, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.997912
+		Input ACC X,Y: 1.550039, -0.081836
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.542690, -0.098283
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.305660
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.997912, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	25.136
+		Input Vel: 36.879615
+		Input ACC X,Y: 1.568393, -0.207713
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.542962, -0.098057
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.260900
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.879615, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.719161
+		Input ACC X,Y: 1.564697, -0.349410
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.544842, -0.097839
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.216537
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.719161, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	27.136
+		Input Vel: 38.494279
+		Input ACC X,Y: 1.538122, -0.501230
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.548405, -0.097580
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.173778
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.494279, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 39.185590
+		Input ACC X,Y: 1.488086, -0.658535
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.551656, -0.097343
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.133739
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.185590, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	29.136
+		Input Vel: 39.776697
+		Input ACC X,Y: 1.415253, -0.815639
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.553700, -0.097192
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.097426
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.776697, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 40.252937
+		Input ACC X,Y: 1.315567, -0.971905
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.556600, -0.097104
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.065786
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.252937, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	31.136
+		Input Vel: 40.591878
+		Input ACC X,Y: 1.190020, -1.122099
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.560589, -0.096990
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.040193
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.591878, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 40.788360
+		Input ACC X,Y: 1.041487, -1.259917
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.563506, -0.096926
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.021185
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.788360, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	33.136
+		Input Vel: 40.842353
+		Input ACC X,Y: 0.896655, -1.366046
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.564182, -0.096994
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.009056
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.842353, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 40.782255
+		Input ACC X,Y: 0.761067, -1.443875
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.564149, -0.097145
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.002641
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.782255, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	35.136
+		Input Vel: 39.911124
+		Input ACC X,Y: -0.193695, -1.911655
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.562225, -0.096886
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.037472
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.911124, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 39.201898
+		Input ACC X,Y: 0.334440, -1.504412
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.565523, -0.097628
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.066163
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.201898, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	37.136
+		Input Vel: 38.952355
+		Input ACC X,Y: 0.512941, -1.404522
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.555435, -0.098128
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.072751
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.952355, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.869941
+		Input ACC X,Y: 0.543117, -1.393014
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.539991, -0.098283
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.071288
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.869941, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	39.136
+		Input Vel: 38.806350
+		Input ACC X,Y: 0.408448, -1.442501
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.526271, -0.098182
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.068998
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.806350, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.643666
+		Input ACC X,Y: 0.261634, -1.473257
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.516032, -0.098048
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.071890
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.643666, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	41.136
+		Input Vel: 38.413110
+		Input ACC X,Y: 0.143772, -1.480381
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.508813, -0.098014
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.078575
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.413110, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.139340
+		Input ACC X,Y: 0.035141, -1.476901
+		Input Road Speed Limit, Curvature: 27.777778, 0.001000
+		Input Lane Dev Dist, Angl: 0.506150, -0.098006
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.334749
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.139340, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	43.136
+		Input Vel: 37.808517
+		Input ACC X,Y: -0.085663, -1.468485
+		Input Road Speed Limit, Curvature: 27.777778, 0.000999
+		Input Lane Dev Dist, Angl: 0.509751, -0.097860
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.338610
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.808517, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.424935
+		Input ACC X,Y: -0.191873, -1.446131
+		Input Road Speed Limit, Curvature: 27.777778, 0.000999
+		Input Lane Dev Dist, Angl: 0.521549, -0.097614
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.339116
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.424935, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	45.136
+		Input Vel: 37.001609
+		Input ACC X,Y: -0.284227, -1.399337
+		Input Road Speed Limit, Curvature: 27.777778, 0.001001
+		Input Lane Dev Dist, Angl: 0.542096, -0.097498
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.336827
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.001609, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 36.551256
+		Input ACC X,Y: -0.363897, -1.269464
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.554875, -0.074255
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.332310
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.551256, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	47.136
+		Input Vel: 36.086510
+		Input ACC X,Y: -0.422503, -1.012032
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.463926, -0.043908
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.326156
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.086510, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.618665
+		Input ACC X,Y: -0.450631, -0.699176
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.062013, -0.021107
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.318913
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.618665, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	49.136
+		Input Vel: 35.157305
+		Input ACC X,Y: -0.452120, -0.392998
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.422708, -0.006625
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.311064
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.157305, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 34.711206
+		Input ACC X,Y: -0.435045, -0.166804
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.524026, 0.000576
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.303068
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.711206, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	51.136
+		Input Vel: 34.288637
+		Input ACC X,Y: -0.407243, -0.047950
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.454677, 0.003213
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.295380
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.288637, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.897733
+		Input ACC X,Y: -0.371384, 0.001105
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.333995, 0.003721
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.288459
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.897733, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	53.136
+		Input Vel: 33.546352
+		Input ACC X,Y: -0.328266, 0.021464
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.213162, 0.003337
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.282772
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.546352, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.241858
+		Input ACC X,Y: -0.284972, 0.028708
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.113159, 0.002571
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.278771
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.241858, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	55.136
+		Input Vel: 32.963306
+		Input ACC X,Y: -0.275101, 0.027651
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.041279, 0.001724
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.275492
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.963306, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.691914
+		Input ACC X,Y: -0.267955, 0.022497
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.003430, 0.000977
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.272021
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.691914, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	57.136
+		Input Vel: 32.427261
+		Input ACC X,Y: -0.261350, 0.016560
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.025909, 0.000396
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.268351
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.427261, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.169127
+		Input ACC X,Y: -0.254935, 0.011234
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.031979, -0.000020
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.264484
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.169127, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	59.136
+		Input Vel: 31.917322
+		Input ACC X,Y: -0.248703, 0.006847
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.026916, -0.000291
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.260423
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.917322, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.671659
+		Input ACC X,Y: -0.242649, 0.003737
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.015032, -0.000451
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.256172
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.671659, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	61.136
+		Input Vel: 31.431963
+		Input ACC X,Y: -0.236769, 0.001723
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.000594, -0.000535
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.251735
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.431963, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.198062
+		Input ACC X,Y: -0.231056, -0.000241
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.017876, -0.000561
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.247113
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.198062, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	63.136
+		Input Vel: 30.969790
+		Input ACC X,Y: -0.225508, -0.003621
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.034687, -0.000502
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.242311
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.969790, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.746985
+		Input ACC X,Y: -0.220118, -0.009830
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.047429, -0.000285
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.665589
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.746985, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	65.136
+		Input Vel: 30.529491
+		Input ACC X,Y: -0.214889, -0.019895
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.049662, 0.000206
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.677101
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.529491, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.317158
+		Input ACC X,Y: -0.209840, -0.036024
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.030921, 0.001137
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.688442
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.317158, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	67.136
+		Input Vel: 30.109835
+		Input ACC X,Y: -0.205012, -0.056238
+		Input Road Speed Limit, Curvature: 19.444444, -0.004549
+		Input Lane Dev Dist, Angl: 0.025164, 0.019416
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.699613
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.109835, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.907390
+		Input ACC X,Y: -0.200215, -0.040550
+		Input Road Speed Limit, Curvature: 19.444444, -0.004553
+		Input Lane Dev Dist, Angl: 0.135461, 0.157658
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.710618
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.907390, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	69.136
+		Input Vel: 29.709610
+		Input ACC X,Y: -0.195531, 0.363059
+		Input Road Speed Limit, Curvature: 19.444444, -0.004547
+		Input Lane Dev Dist, Angl: 0.248297, 0.289238
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.721457
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.709610, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.512193
+		Input ACC X,Y: -0.249450, 1.595005
+		Input Road Speed Limit, Curvature: 19.444444, -0.004543
+		Input Lane Dev Dist, Angl: -0.117171, 0.390483
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.731919
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.512193, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	71.136
+		Input Vel: 29.740199
+		Input ACC X,Y: -0.042694, 3.646924
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.898576, 0.432107
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.684058
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.740199, 20.986351
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.604598
+		Input ACC X,Y: -0.015957, 4.197357
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -1.011543, 0.457851
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.745673
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.604598, 20.986955
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	73.136
+		Input Vel: 30.912853
+		Input ACC X,Y: -1.649407, 4.257953
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.813368, 0.461235
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.780821
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.912853, 20.985876
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.613412
+		Input ACC X,Y: -2.816827, 3.635680
+		Input Road Speed Limit, Curvature: 38.888889, -0.004542
+		Input Lane Dev Dist, Angl: -0.635179, 0.457572
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.785628
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.613412, 20.983548
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	75.136
+		Input Vel: 29.874544
+		Input ACC X,Y: -3.442076, 2.719607
+		Input Road Speed Limit, Curvature: 38.888889, -0.004544
+		Input Lane Dev Dist, Angl: -0.570572, 0.454455
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.767517
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.874544, 20.978822
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.855122
+		Input ACC X,Y: -3.644475, 1.823929
+		Input Road Speed Limit, Curvature: 38.888889, -0.004548
+		Input Lane Dev Dist, Angl: -0.572943, 0.453778
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.733827
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.855122, 20.969431
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	77.136
+		Input Vel: 27.695175
+		Input ACC X,Y: -3.565263, 1.076639
+		Input Road Speed Limit, Curvature: 38.888889, -0.004554
+		Input Lane Dev Dist, Angl: -0.573427, 0.455539
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.691056
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.695175, 20.957012
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 26.515014
+		Input ACC X,Y: -3.356718, 0.534723
+		Input Road Speed Limit, Curvature: 38.888889, -0.004546
+		Input Lane Dev Dist, Angl: -0.514170, 0.459117
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.643354
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.515014, 20.975858
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	79.136
+		Input Vel: 25.416238
+		Input ACC X,Y: -3.147428, 0.193061
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.385182, 0.372375
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.599471
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.416238, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 24.486039
+		Input ACC X,Y: -2.947243, -0.010974
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.236156, 0.255356
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.560920
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 24.486039, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	81.136
+		Input Vel: 23.797876
+		Input ACC X,Y: -2.732400, -0.105196
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.111649, 0.141389
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.532840
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 23.797876, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 23.174140
+		Input ACC X,Y: -1.410763, -0.152439
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: 0.037410, 0.041856
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.506763
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 23.174140, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	82.294s	2630.37m
+TIME	84.758
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-15 14:38:45
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Input Vel: 0.047528
+		Input ACC X,Y: 0.141118, 0.046281
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.001662, -0.102194
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.047528, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 1.645317
+		Input ACC X,Y: 0.010523, 5.327276
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.002683, -0.102563
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.645317, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	2.825
+		Input Vel: 11.226720
+		Input ACC X,Y: 0.103730, 10.667232
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.021378, -0.105370
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.226720, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 16.578529
+		Input ACC X,Y: 1.229496, 10.460456
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.345863, -0.036854
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.814843
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 16.578529, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	4.825
+		Input Vel: 23.093987
+		Input ACC X,Y: 0.312612, 1.405344
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.692805, -0.126031
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.520027
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 23.093987, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.074923
+		Input ACC X,Y: 1.211807, 3.109906
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.284021, -0.109375
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.343529
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.074923, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	6.825
+		Input Vel: 29.148263
+		Input ACC X,Y: 1.113767, 1.216847
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.223265, -0.099046
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.255540
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.148263, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.610350
+		Input ACC X,Y: 0.827816, -0.145345
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.322902, -0.096185
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.245759
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.610350, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	8.825
+		Input Vel: 29.473242
+		Input ACC X,Y: 0.718877, -0.644036
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.440533, -0.096659
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.265681
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.473242, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.021884
+		Input ACC X,Y: 0.625172, -0.857396
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.520589, -0.098120
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.301941
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.021884, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	10.825
+		Input Vel: 28.446502
+		Input ACC X,Y: 0.574785, -0.874058
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.560376, -0.099319
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.345456
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.446502, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.876924
+		Input ACC X,Y: 0.554779, -0.771267
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.575436, -0.100033
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.389843
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.876924, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	12.825
+		Input Vel: 27.400064
+		Input ACC X,Y: 0.562578, -0.598314
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.578908, -0.100358
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.430652
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.400064, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.074437
+		Input ACC X,Y: 0.600034, -0.386167
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.577524, -0.100481
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.464710
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.074437, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	14.825
+		Input Vel: 26.941049
+		Input ACC X,Y: 0.668494, -0.152336
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.573540, -0.100507
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.489621
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.941049, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.031365
+		Input ACC X,Y: 0.769351, 0.092736
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.567458, -0.100488
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.503395
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.031365, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	16.825
+		Input Vel: 27.363998
+		Input ACC X,Y: 0.875177, 0.270040
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.560704, -0.100454
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.504629
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.363998, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.899681
+		Input ACC X,Y: 0.975317, 0.376395
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.554716, -0.100389
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.494832
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.899681, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	18.825
+		Input Vel: 28.585081
+		Input ACC X,Y: 1.070314, 0.430774
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.549952, -0.100231
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.476321
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.585081, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.375735
+		Input ACC X,Y: 1.157463, 0.440700
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.546569, -0.100007
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.451064
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.375735, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	20.394s	477.516m
+TIME	21.781
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-15 14:39:24
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Input Vel: 0.029286
+		Input ACC X,Y: -0.088620, 0.044839
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.002447, -0.102241
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.029286, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 0.192962
+		Input ACC X,Y: 0.025192, 1.790861
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.001878, -0.102242
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.192962, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	2.422
+		Input Vel: 6.622966
+		Input ACC X,Y: 0.032007, 10.608622
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.008279, -0.103890
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 6.622966, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 15.405689
+		Input ACC X,Y: 2.850592, 0.323709
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: -0.011693, -0.091739
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 15.405689, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	4.422
+		Input Vel: 22.676773
+		Input ACC X,Y: -1.739826, 7.799599
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.895305, -0.073439
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.971717
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 22.676773, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.141159
+		Input ACC X,Y: 0.977068, 8.857104
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.984314, -0.107527
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.748498
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.141159, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	6.422
+		Input Vel: 31.709887
+		Input ACC X,Y: 1.380646, 3.264192
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.741280, -0.108274
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.520061
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.709887, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.758035
+		Input ACC X,Y: 1.026334, -1.284376
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.553390, -0.103208
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.467654
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.758035, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	8.422
+		Input Vel: 33.580152
+		Input ACC X,Y: 1.323093, -0.578587
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.503904, -0.099316
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.426548
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.580152, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.266056
+		Input ACC X,Y: 0.908728, -0.932801
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.526995, -0.098603
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.442253
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.266056, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	10.422
+		Input Vel: 32.650809
+		Input ACC X,Y: 0.788452, -1.067092
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.554865, -0.098817
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.473015
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.650809, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.923464
+		Input ACC X,Y: 0.718735, -1.015200
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.573609, -0.099218
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.509382
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.923464, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	12.422
+		Input Vel: 31.222929
+		Input ACC X,Y: 0.698273, -0.850970
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.582358, -0.099540
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.544409
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.222929, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.652813
+		Input ACC X,Y: 0.725291, -0.618343
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.583214, -0.099740
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.572915
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.652813, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	14.422
+		Input Vel: 30.294362
+		Input ACC X,Y: 0.799811, -0.342461
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.578089, -0.099840
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.590837
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.294362, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.208139
+		Input ACC X,Y: 0.891594, -0.120824
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.570271, -0.099889
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.595149
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.208139, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	16.422
+		Input Vel: 30.377771
+		Input ACC X,Y: 0.983356, 0.029719
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.562929, -0.099909
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.586667
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.377771, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.754879
+		Input ACC X,Y: 1.077541, 0.132185
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.556682, -0.099804
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.567812
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.754879, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	18.422
+		Input Vel: 31.297884
+		Input ACC X,Y: 1.170789, 0.192706
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.551843, -0.099616
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.540661
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.297884, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.970609
+		Input ACC X,Y: 1.259972, 0.215093
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.547462, -0.099400
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.507025
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.970609, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	20.422
+		Input Vel: 32.741041
+		Input ACC X,Y: 1.342458, 0.202961
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.543749, -0.099208
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.468503
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.741041, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.580359
+		Input ACC X,Y: 1.415854, 0.159881
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.541768, -0.099019
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.426538
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.580359, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	22.422
+		Input Vel: 34.462343
+		Input ACC X,Y: 1.477660, 0.089739
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.541692, -0.098765
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.382438
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.462343, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.362957
+		Input ACC X,Y: 1.525572, -0.003986
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.542548, -0.098479
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.337408
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.362957, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	24.422
+		Input Vel: 36.260056
+		Input ACC X,Y: 1.557523, -0.116959
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.542681, -0.098208
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.292528
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.260056, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.131849
+		Input ACC X,Y: 1.569790, -0.247857
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.543308, -0.098000
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.247762
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.131849, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	26.422
+		Input Vel: 37.954707
+		Input ACC X,Y: 1.559425, -0.393098
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.545762, -0.097764
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.203745
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.954707, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.707045
+		Input ACC X,Y: 1.525429, -0.547519
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.549533, -0.097506
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.161675
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.707045, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	28.422
+		Input Vel: 39.370365
+		Input ACC X,Y: 1.468530, -0.705311
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.552276, -0.097287
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.122638
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.370365, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 39.929309
+		Input ACC X,Y: 1.389204, -0.861503
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.554408, -0.097171
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.087595
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.929309, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	30.422
+		Input Vel: 40.367284
+		Input ACC X,Y: 1.278798, -1.019066
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.557701, -0.097070
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.057599
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.367284, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 40.665643
+		Input ACC X,Y: 1.151965, -1.161494
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.561731, -0.096964
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.033848
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.665643, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	32.422
+		Input Vel: 40.817635
+		Input ACC X,Y: 0.997690, -1.294685
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.563834, -0.096928
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.016962
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.817635, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 40.835447
+		Input ACC X,Y: 0.856049, -1.391507
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.564228, -0.097042
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.006621
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.835447, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	34.422
+		Input Vel: 40.745211
+		Input ACC X,Y: 0.656842, -1.498116
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.563976, -0.097185
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.001757
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 40.745211, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 39.622418
+		Input ACC X,Y: 0.011620, -1.737073
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.564030, -0.097064
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.049762
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.622418, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	36.422
+		Input Vel: 39.099960
+		Input ACC X,Y: 0.411957, -1.457937
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.563721, -0.097811
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.069474
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.099960, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.916993
+		Input ACC X,Y: 0.529737, -1.394249
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.551080, -0.098218
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.072860
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.916993, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	38.422
+		Input Vel: 38.860117
+		Input ACC X,Y: 0.532731, -1.398128
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.535615, -0.098273
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.070161
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.860117, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.767553
+		Input ACC X,Y: 0.361726, -1.454930
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.522957, -0.098136
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.069364
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.767553, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	40.422
+		Input Vel: 38.581590
+		Input ACC X,Y: 0.224111, -1.477269
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.513529, -0.098026
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.073523
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.581590, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.336563
+		Input ACC X,Y: 0.114180, -1.479492
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.507490, -0.098023
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.081071
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.336563, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	42.422
+		Input Vel: 38.048343
+		Input ACC X,Y: -0.001853, -1.476009
+		Input Road Speed Limit, Curvature: 27.777778, 0.001000
+		Input Lane Dev Dist, Angl: 0.506455, -0.097977
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.336265
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.048343, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.700627
+		Input ACC X,Y: -0.118396, -1.463438
+		Input Road Speed Limit, Curvature: 27.777778, 0.000999
+		Input Lane Dev Dist, Angl: 0.512318, -0.097795
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.339082
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.700627, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	44.422
+		Input Vel: 37.304032
+		Input ACC X,Y: -0.220392, -1.436123
+		Input Road Speed Limit, Curvature: 27.777778, 0.001000
+		Input Lane Dev Dist, Angl: 0.526722, -0.097543
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.338708
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.304032, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 36.871438
+		Input ACC X,Y: -0.309021, -1.374245
+		Input Road Speed Limit, Curvature: 27.777778, 0.001002
+		Input Lane Dev Dist, Angl: 0.548734, -0.097615
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.335704
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.871438, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	46.422
+		Input Vel: 36.415570
+		Input ACC X,Y: -0.384007, -1.204620
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.546369, -0.064661
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.330644
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.415570, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.948829
+		Input ACC X,Y: -0.433959, -0.922572
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.389315, -0.036359
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.324117
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.948829, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	48.422
+		Input Vel: 35.481898
+		Input ACC X,Y: -0.453143, -0.607615
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.132331, -0.015988
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.316645
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.481898, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.024190
+		Input ACC X,Y: -0.448407, -0.315330
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.481229, -0.003859
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.308708
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.024190, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	50.422
+		Input Vel: 34.584162
+		Input ACC X,Y: -0.427805, -0.121607
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.514227, 0.001695
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.300756
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.584162, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 34.170065
+		Input ACC X,Y: -0.397489, -0.028572
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.421340, 0.003506
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.293244
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.170065, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	52.422
+		Input Vel: 33.789984
+		Input ACC X,Y: -0.359447, 0.008916
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.297195, 0.003671
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.286638
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.789984, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.451665
+		Input ACC X,Y: -0.314255, 0.024709
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.181073, 0.003136
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.281401
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.451665, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	54.422
+		Input Vel: 33.159107
+		Input ACC X,Y: -0.280714, 0.029205
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.089033, 0.002320
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.277822
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.159107, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.882784
+		Input ACC X,Y: -0.272659, 0.026392
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.025493, 0.001489
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.274491
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.882784, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	56.422
+		Input Vel: 32.613419
+		Input ACC X,Y: -0.265988, 0.020742
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.012083, 0.000788
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.270962
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.613419, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.350702
+		Input ACC X,Y: -0.259446, 0.014906
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.029145, 0.000257
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.267234
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.350702, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	58.422
+		Input Vel: 32.094448
+		Input ACC X,Y: -0.253084, 0.009836
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.031431, -0.000113
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.263310
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.094448, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.844467
+		Input ACC X,Y: -0.246904, 0.005789
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.023967, -0.000348
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.259193
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.844467, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	60.422
+		Input Vel: 31.600577
+		Input ACC X,Y: -0.240902, 0.003065
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.010720, -0.000482
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.254887
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.600577, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.362602
+		Input ACC X,Y: -0.235072, 0.001203
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.005586, -0.000549
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.250395
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.362602, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	62.422
+		Input Vel: 31.130373
+		Input ACC X,Y: -0.229408, -0.001019
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.022987, -0.000555
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.245720
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.130373, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.903725
+		Input ACC X,Y: -0.223907, -0.005098
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.039079, -0.000459
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.240865
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.903725, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	64.422
+		Input Vel: 30.682497
+		Input ACC X,Y: -0.218564, -0.012350
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.049556, -0.000175
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.668992
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.682497, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.466537
+		Input ACC X,Y: -0.213384, -0.023837
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.046931, 0.000424
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.680453
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.466537, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	66.422
+		Input Vel: 30.255692
+		Input ACC X,Y: -0.208397, -0.042161
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.019203, 0.001529
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.691743
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.255692, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.049814
+		Input ACC X,Y: -0.203627, -0.059462
+		Input Road Speed Limit, Curvature: 19.444444, -0.004542
+		Input Lane Dev Dist, Angl: 0.051610, 0.060190
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.702865
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.049814, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	68.422
+		Input Vel: 29.848788
+		Input ACC X,Y: -0.198597, 0.003675
+		Input Road Speed Limit, Curvature: 19.444444, -0.004545
+		Input Lane Dev Dist, Angl: 0.176468, 0.197778
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.713823
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.848788, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.652011
+		Input ACC X,Y: -0.198331, 0.648861
+		Input Road Speed Limit, Curvature: 19.444444, -0.004550
+		Input Lane Dev Dist, Angl: 0.232084, 0.323516
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.724596
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.652011, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	70.422
+		Input Vel: 29.457861
+		Input ACC X,Y: -0.032324, 1.936308
+		Input Road Speed Limit, Curvature: 38.888889, -0.004552
+		Input Lane Dev Dist, Angl: -0.470399, 0.411207
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.659092
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.457861, 20.961104
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.001942
+		Input ACC X,Y: 0.242795, 3.689611
+		Input Road Speed Limit, Curvature: 38.888889, -0.004547
+		Input Lane Dev Dist, Angl: -0.985881, 0.443426
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.703067
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.001942, 20.972405
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	72.422
+		Input Vel: 30.767701
+		Input ACC X,Y: -0.519413, 4.195874
+		Input Road Speed Limit, Curvature: 38.888889, -0.004544
+		Input Lane Dev Dist, Angl: -0.969080, 0.460568
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.759934
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.767701, 20.978990
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.880381
+		Input ACC X,Y: -2.050966, 4.134743
+		Input Road Speed Limit, Curvature: 38.888889, -0.004543
+		Input Lane Dev Dist, Angl: -0.750321, 0.460344
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.785183
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.880381, 20.982764
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	74.422
+		Input Vel: 30.434363
+		Input ACC X,Y: -3.053016, 3.377923
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.605386, 0.456399
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.782187
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.434363, 20.985520
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.597283
+		Input ACC X,Y: -3.539219, 2.445834
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.567417, 0.453959
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.758392
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.597283, 20.987000
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	76.422
+		Input Vel: 28.522918
+		Input ACC X,Y: -3.645200, 1.586248
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.576002, 0.454044
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.720956
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.522918, 20.985336
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.345436
+		Input ACC X,Y: -3.509195, 0.894351
+		Input Road Speed Limit, Curvature: 38.888889, -0.004545
+		Input Lane Dev Dist, Angl: -0.563801, 0.456530
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.676424
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.345436, 20.977000
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	78.422
+		Input Vel: 26.179377
+		Input ACC X,Y: -3.293415, 0.416508
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.481997, 0.456300
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.630798
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.179377, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 25.121787
+		Input ACC X,Y: -3.087072, 0.121295
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.340996, 0.337772
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.587285
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.121787, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	80.422
+		Input Vel: 24.255093
+		Input ACC X,Y: -2.894195, -0.049077
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.196884, 0.221254
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.551380
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 24.255093, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 23.647686
+		Input ACC X,Y: -2.814241, -0.232428
+		Input Road Speed Limit, Curvature: 38.888889, -0.004555
+		Input Lane Dev Dist, Angl: -0.081166, 0.107169
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.084235
+		Output Brake: 0.526957
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 23.647686, 20.954627
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	82.294s	2630.37m
+TIME	85.265
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-15 14:41:30
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Input Vel: 0.017252
+		Input ACC X,Y: 0.120553, 0.071732
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.002049, -0.102206
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.017252, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 0.061246
+		Input ACC X,Y: -0.047992, 0.047736
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.001914, -0.102222
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.061246, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	2.119
+		Input Vel: 3.707686
+		Input ACC X,Y: -0.004671, 8.988120
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: -0.004732, -0.103258
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 1.000000
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.707686, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 14.126531
+		Input ACC X,Y: 0.180588, 9.702030
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: -0.034367, -0.104918
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.908203
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 14.126531, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	4.119
+		Input Vel: 19.498680
+		Input ACC X,Y: 0.175572, 8.399168
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.678325, -0.039823
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.679420
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 19.498680, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 23.600531
+		Input ACC X,Y: 0.982714, 1.734871
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.538113, -0.122583
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.502206
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 23.600531, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	6.119
+		Input Vel: 27.875995
+		Input ACC X,Y: 1.250105, 2.933612
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.237478, -0.104737
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.308548
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.875995, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.375248
+		Input ACC X,Y: 0.907594, 0.608846
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.245171, -0.097722
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.248214
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.375248, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	8.119
+		Input Vel: 29.617233
+		Input ACC X,Y: 0.843637, -0.314746
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.359272, -0.096029
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.249233
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.617233, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.363319
+		Input ACC X,Y: 0.684921, -0.732523
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.468831, -0.097073
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.275111
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.363319, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	10.119
+		Input Vel: 28.858830
+		Input ACC X,Y: 0.606848, -0.878629
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.535834, -0.098519
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.314310
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.858830, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.273879
+		Input ACC X,Y: 0.566062, -0.853922
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.566665, -0.099581
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.358645
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.273879, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	12.119
+		Input Vel: 27.724022
+		Input ACC X,Y: 0.554103, -0.725989
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.577242, -0.100159
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.402375
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.724022, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.286525
+		Input ACC X,Y: 0.570463, -0.538909
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.578842, -0.100410
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.441485
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.286525, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	14.119
+		Input Vel: 27.013706
+		Input ACC X,Y: 0.616865, -0.319067
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.576595, -0.100496
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.473079
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.013706, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 26.943103
+		Input ACC X,Y: 0.694707, -0.081189
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.571923, -0.100506
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.494911
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.943103, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.104547
+		Input ACC X,Y: 0.804280, 0.162283
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.565432, -0.100478
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.505054
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.104547, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	17.119
+		Input Vel: 27.503020
+		Input ACC X,Y: 0.905268, 0.307160
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.558850, -0.100445
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.502781
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.503020, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.087776
+		Input ACC X,Y: 1.003858, 0.397442
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.553167, -0.100351
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.490201
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.087776, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.808378
+		Input ACC X,Y: 1.096872, 0.437860
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.548828, -0.100169
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.469516
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.808378, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	20.119
+		Input Vel: 29.622737
+		Input ACC X,Y: 1.181190, 0.436002
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.545742, -0.099935
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.442602
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.622737, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.495575
+		Input ACC X,Y: 1.254625, 0.397759
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.542872, -0.099691
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.411071
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.495575, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.396818
+		Input ACC X,Y: 1.315157, 0.328792
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.540472, -0.099477
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.376341
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.396818, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	23.119
+		Input Vel: 32.300628
+		Input ACC X,Y: 1.361234, 0.234532
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.539514, -0.099279
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.339674
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.300628, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.842768
+		Input ACC X,Y: 0.635181, -0.943513
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.538980, -0.098839
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.319391
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.842768, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.945306
+		Input ACC X,Y: 1.543756, -0.284752
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.557256, -0.097185
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.269774
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.945306, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	26.119
+		Input Vel: 34.623823
+		Input ACC X,Y: 1.314103, -0.159400
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.584038, -0.098606
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.239507
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.623823, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.323007
+		Input ACC X,Y: 1.377879, -0.264194
+		Input Road Speed Limit, Curvature: 38.888889, 0.001002
+		Input Lane Dev Dist, Angl: 0.571916, -0.098935
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.206824
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.323007, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 36.014730
+		Input ACC X,Y: 1.393839, -0.369713
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.556968, -0.098586
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.173119
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.014730, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	29.119
+		Input Vel: 36.674021
+		Input ACC X,Y: 1.378985, -0.481659
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.551193, -0.098153
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.139680
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.674021, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.279152
+		Input ACC X,Y: 1.342468, -0.602068
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.551337, -0.097841
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.107682
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.279152, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.811706
+		Input ACC X,Y: 1.286604, -0.728149
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.552840, -0.097678
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.078172
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.811706, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	32.119
+		Input Vel: 38.251113
+		Input ACC X,Y: 1.201791, -0.863459
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.555449, -0.097609
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.052343
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.251113, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.691345
+		Input ACC X,Y: 1.307191, -0.825963
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.559496, -0.097600
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.025653
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.691345, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 39.044223
+		Input ACC X,Y: 1.057269, -1.079331
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.560555, -0.097422
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.002419
+		Output Brake: 0.506216
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.044223, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	35.119
+		Input Vel: 39.170336
+		Input ACC X,Y: 0.672060, -1.354757
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.561011, -0.097377
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.009943
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 39.170336, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.969528
+		Input ACC X,Y: 0.681445, -1.324921
+		Input Road Speed Limit, Curvature: 38.888889, 0.001000
+		Input Lane Dev Dist, Angl: 0.562508, -0.097477
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.005802
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.969528, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.886024
+		Input ACC X,Y: 0.706292, -1.301311
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.563058, -0.097727
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.007247
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.886024, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	38.119
+		Input Vel: 38.851959
+		Input ACC X,Y: 0.686455, -1.314327
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.558678, -0.097881
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.011055
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.851959, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.798075
+		Input ACC X,Y: 0.560337, -1.375764
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.549408, -0.097999
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.013805
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.798075, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 38.625281
+		Input ACC X,Y: 0.380847, -1.438330
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.539115, -0.098127
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.010387
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.625281, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	41.119
+		Input Vel: 38.331350
+		Input ACC X,Y: 0.203305, -1.477624
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.529981, -0.098145
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.000011
+		Output Brake: 0.000444
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 38.331350, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.970695
+		Input ACC X,Y: 0.117087, -1.466898
+		Input Road Speed Limit, Curvature: 38.888889, 0.000999
+		Input Lane Dev Dist, Angl: 0.522538, -0.098157
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.013507
+		Output Brake: 0.000013
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.970695, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 37.607363
+		Input ACC X,Y: 0.054422, -1.445684
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.514908, -0.098198
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.028318
+		Output Brake: 0.000013
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.607363, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	44.119
+		Input Vel: 37.252166
+		Input ACC X,Y: -0.005032, -1.423119
+		Input Road Speed Limit, Curvature: 38.888889, 0.001001
+		Input Lane Dev Dist, Angl: 0.509158, -0.098267
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.043442
+		Output Brake: 0.000013
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 37.252166, 36.111111
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 36.874125
+		Input ACC X,Y: -0.117886, -1.409918
+		Input Road Speed Limit, Curvature: 27.777778, 0.000999
+		Input Lane Dev Dist, Angl: 0.508137, -0.098211
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.370595
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.874125, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 36.439405
+		Input ACC X,Y: -0.226359, -1.386129
+		Input Road Speed Limit, Curvature: 27.777778, 0.000999
+		Input Lane Dev Dist, Angl: 0.514410, -0.098023
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.366626
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 36.439405, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	47.119
+		Input Vel: 35.959884
+		Input ACC X,Y: -0.320502, -1.348161
+		Input Road Speed Limit, Curvature: 27.777778, 0.001000
+		Input Lane Dev Dist, Angl: 0.529228, -0.097794
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.359500
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.959884, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 35.447553
+		Input ACC X,Y: -0.401556, -1.276381
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.550723, -0.096191
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.349740
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 35.447553, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 34.914170
+		Input ACC X,Y: -0.468958, -1.107796
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.545615, -0.063505
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.337879
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.914170, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	50.119
+		Input Vel: 34.371044
+		Input ACC X,Y: -0.513075, -0.847735
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.392933, -0.036480
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.324454
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 34.371044, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.827935
+		Input ACC X,Y: -0.530041, -0.566694
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.098517, -0.016812
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.309941
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.827935, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 33.293518
+		Input ACC X,Y: -0.525533, -0.304533
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.456998, -0.004740
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.294784
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 33.293518, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	53.119
+		Input Vel: 32.775438
+		Input ACC X,Y: -0.506843, -0.125587
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.511465, 0.001107
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.279390
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.775438, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 32.281181
+		Input ACC X,Y: -0.479093, -0.035371
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.437129, 0.003229
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.264173
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 32.281181, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.817836
+		Input ACC X,Y: -0.445228, 0.001854
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.325000, 0.003637
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.249544
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.817836, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	56.119
+		Input Vel: 31.390966
+		Input ACC X,Y: -0.405730, 0.017948
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.213905, 0.003306
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.235847
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.390966, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 31.007141
+		Input ACC X,Y: -0.359889, 0.024374
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.120368, 0.002630
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.223491
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 31.007141, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 30.651056
+		Input ACC X,Y: -0.352575, 0.024250
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.050774, 0.001855
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.211788
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.651056, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	59.119
+		Input Vel: 30.300988
+		Input ACC X,Y: -0.347426, 0.020391
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.005001, 0.001142
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.199680
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 30.300988, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.955788
+		Input ACC X,Y: -0.342970, 0.015559
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.020633, 0.000564
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.187121
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.955788, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 29.614988
+		Input ACC X,Y: -0.338633, 0.011087
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.030854, 0.000131
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.174095
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.614988, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	62.119
+		Input Vel: 29.278478
+		Input ACC X,Y: -0.334399, 0.007304
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.030091, -0.000172
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.160607
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 29.278478, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.946153
+		Input ACC X,Y: -0.330267, 0.004344
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.022090, -0.000367
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.146659
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.946153, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 28.617909
+		Input ACC X,Y: -0.326235, 0.002363
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: 0.009757, -0.000482
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.132255
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.617909, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	65.119
+		Input Vel: 28.293649
+		Input ACC X,Y: -0.322300, 0.001005
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.004929, -0.000544
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.117397
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 28.293649, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.973275
+		Input ACC X,Y: -0.318460, -0.000494
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.020548, -0.000559
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.102089
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.973275, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.656694
+		Input ACC X,Y: -0.314712, -0.003005
+		Input Road Speed Limit, Curvature: 27.777778, 0.000000
+		Input Lane Dev Dist, Angl: -0.035496, -0.000502
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.086334
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.656694, 27.777778
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	68.119
+		Input Vel: 27.343815
+		Input ACC X,Y: -0.311054, -0.007269
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.047127, -0.000320
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.498509
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.343815, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 27.034550
+		Input ACC X,Y: -0.307486, -0.013739
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.051039, 0.000067
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.498535
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 27.034550, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 26.728812
+		Input ACC X,Y: -0.304017, -0.023181
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.040582, 0.000759
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.498122
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.728812, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	71.119
+		Input Vel: 26.426519
+		Input ACC X,Y: -0.300666, -0.036694
+		Input Road Speed Limit, Curvature: 19.444444, 0.000000
+		Input Lane Dev Dist, Angl: -0.005976, 0.001910
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.497273
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.426519, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 26.124487
+		Input ACC X,Y: -0.303647, -0.046340
+		Input Road Speed Limit, Curvature: 19.444444, -0.004541
+		Input Lane Dev Dist, Angl: 0.065700, 0.081625
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.495835
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.124487, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 25.695408
+		Input ACC X,Y: -0.297047, -0.004160
+		Input Road Speed Limit, Curvature: 19.444444, -0.004544
+		Input Lane Dev Dist, Angl: 0.179298, 0.200545
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.487209
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.695408, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	74.119
+		Input Vel: 25.401067
+		Input ACC X,Y: -0.291460, 0.352615
+		Input Road Speed Limit, Curvature: 19.444444, -0.004554
+		Input Lane Dev Dist, Angl: 0.260291, 0.311038
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.484698
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.401067, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 25.111044
+		Input ACC X,Y: -0.324165, 1.165762
+		Input Road Speed Limit, Curvature: 19.444444, -0.004543
+		Input Lane Dev Dist, Angl: -0.083916, 0.395717
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.481820
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.111044, 19.444444
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+		Input Vel: 25.210990
+		Input ACC X,Y: 0.113888, 2.329495
+		Input Road Speed Limit, Curvature: 38.888889, -0.004541
+		Input Lane Dev Dist, Angl: -0.813807, 0.438203
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.418648
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 25.210990, 20.986829
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	77.119
+		Input Vel: 26.028733
+		Input ACC X,Y: 0.315603, 3.056840
+		Input Road Speed Limit, Curvature: 38.888889, -0.004545
+		Input Lane Dev Dist, Angl: -0.905151, 0.459862
+		Input RelObject, DistX, DistY: 0.000000, 0.000000 
+		
+
+		Output Gas: 0.045579
+		Output Brake: 0.469279
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 26.028733, 20.977276
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		
+
+
+
+TIME	112.678
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	77.481s	2352.56m
+SHUTDOWN	CarMaker quick shutdown initiated
+

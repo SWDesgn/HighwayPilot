@@ -1,0 +1,120 @@
+\hypertarget{class_longitudinal_controller}{}\section{Longitudinal\+Controller Class Reference}
+\label{class_longitudinal_controller}\index{LongitudinalController@{LongitudinalController}}
+
+
+Lateral controller.  
+
+
+
+
+{\ttfamily \#include $<$Long\+Controller.\+h$>$}
+
+Inheritance diagram for Longitudinal\+Controller\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_longitudinal_controller}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_longitudinal_controller_a929cebc70c1503b3d124692aaa46cb2e}{control\+\_\+vel}} (const \mbox{\hyperlink{struct_input_data}{Input\+Data}} f\+\_\+input\+Data, \mbox{\hyperlink{struct_output_data}{Output\+Data}} \&f\+\_\+output\+Data)
+\begin{DoxyCompactList}\small\item\em Controls the velocity of the vehicle to be at the maximum allowed speed. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_longitudinal_controller_ab397e2217ad705edb2bf4b06d31c8b4e}{control\+\_\+vel}} (const \mbox{\hyperlink{struct_input_data}{Input\+Data}} f\+\_\+input\+Data, \mbox{\hyperlink{struct_output_data}{Output\+Data}} \&f\+\_\+output\+Data, double v\+\_\+desired)
+\begin{DoxyCompactList}\small\item\em Controls the velocity of the vehicle to be as given. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_longitudinal_controller_a08d81a096be2e181a48ac84df253f065}{control\+\_\+dist}} (const \mbox{\hyperlink{struct_input_data}{Input\+Data}} f\+\_\+input\+Data, \mbox{\hyperlink{struct_output_data}{Output\+Data}} \&f\+\_\+output\+Data)
+\begin{DoxyCompactList}\small\item\em Controls the longitudinal distance to the vehicle ahead for follow-\/up mode. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_longitudinal_controller_af6e007f4b27571bd8ced67ab357bca4f}{calc\+\_\+max\+\_\+speed}} (const \mbox{\hyperlink{struct_input_data}{Input\+Data}} f\+\_\+input\+Data)
+\begin{DoxyCompactList}\small\item\em Calculates the maximum allowed speed at the current position for free drining. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Lateral controller. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_longitudinal_controller_af6e007f4b27571bd8ced67ab357bca4f}\label{class_longitudinal_controller_af6e007f4b27571bd8ced67ab357bca4f}} 
+\index{LongitudinalController@{LongitudinalController}!calc\_max\_speed@{calc\_max\_speed}}
+\index{calc\_max\_speed@{calc\_max\_speed}!LongitudinalController@{LongitudinalController}}
+\subsubsection{\texorpdfstring{calc\_max\_speed()}{calc\_max\_speed()}}
+{\footnotesize\ttfamily double Longitudinal\+Controller\+::calc\+\_\+max\+\_\+speed (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_input_data}{Input\+Data}}}]{f\+\_\+input\+Data }\end{DoxyParamCaption})}
+
+
+
+Calculates the maximum allowed speed at the current position for free drining. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em f\+\_\+input\+Data} & data from the input object \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+maximum allowed speed 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_longitudinal_controller_a08d81a096be2e181a48ac84df253f065}\label{class_longitudinal_controller_a08d81a096be2e181a48ac84df253f065}} 
+\index{LongitudinalController@{LongitudinalController}!control\_dist@{control\_dist}}
+\index{control\_dist@{control\_dist}!LongitudinalController@{LongitudinalController}}
+\subsubsection{\texorpdfstring{control\_dist()}{control\_dist()}}
+{\footnotesize\ttfamily void Longitudinal\+Controller\+::control\+\_\+dist (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_input_data}{Input\+Data}}}]{f\+\_\+input\+Data,  }\item[{\mbox{\hyperlink{struct_output_data}{Output\+Data}} \&}]{f\+\_\+output\+Data }\end{DoxyParamCaption})}
+
+
+
+Controls the longitudinal distance to the vehicle ahead for follow-\/up mode. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em f\+\_\+input\+Data} & data from the input object including the states of the vehicle \\
+\hline
+{\em f\+\_\+output\+Data} & reference to an object that outputs data for debugging purposes \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_longitudinal_controller_a929cebc70c1503b3d124692aaa46cb2e}\label{class_longitudinal_controller_a929cebc70c1503b3d124692aaa46cb2e}} 
+\index{LongitudinalController@{LongitudinalController}!control\_vel@{control\_vel}}
+\index{control\_vel@{control\_vel}!LongitudinalController@{LongitudinalController}}
+\subsubsection{\texorpdfstring{control\_vel()}{control\_vel()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily void Longitudinal\+Controller\+::control\+\_\+vel (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_input_data}{Input\+Data}}}]{f\+\_\+input\+Data,  }\item[{\mbox{\hyperlink{struct_output_data}{Output\+Data}} \&}]{f\+\_\+output\+Data }\end{DoxyParamCaption})}
+
+
+
+Controls the velocity of the vehicle to be at the maximum allowed speed. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em f\+\_\+input\+Data} & data from the input object including the states of the vehicle \\
+\hline
+{\em f\+\_\+output\+Data} & reference to an object that outputs data for debugging purposes \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_longitudinal_controller_ab397e2217ad705edb2bf4b06d31c8b4e}\label{class_longitudinal_controller_ab397e2217ad705edb2bf4b06d31c8b4e}} 
+\index{LongitudinalController@{LongitudinalController}!control\_vel@{control\_vel}}
+\index{control\_vel@{control\_vel}!LongitudinalController@{LongitudinalController}}
+\subsubsection{\texorpdfstring{control\_vel()}{control\_vel()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily void Longitudinal\+Controller\+::control\+\_\+vel (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_input_data}{Input\+Data}}}]{f\+\_\+input\+Data,  }\item[{\mbox{\hyperlink{struct_output_data}{Output\+Data}} \&}]{f\+\_\+output\+Data,  }\item[{double}]{v\+\_\+desired }\end{DoxyParamCaption})}
+
+
+
+Controls the velocity of the vehicle to be as given. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em f\+\_\+input\+Data} & data from the input object including the states of the vehicle \\
+\hline
+{\em f\+\_\+output\+Data} & reference to an object that outputs data for debugging purposes \\
+\hline
+{\em v\+\_\+desired} & desired velocity \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+U\+:/\+Projekt\+\_\+\+S\+E/pse\+\_\+2021\+\_\+gruppe\+\_\+01/src/Long\+Controller.\+h\item 
+U\+:/\+Projekt\+\_\+\+S\+E/pse\+\_\+2021\+\_\+gruppe\+\_\+01/src/Long\+Controller.\+cpp\end{DoxyCompactItemize}

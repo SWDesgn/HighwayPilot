@@ -1,0 +1,3546 @@
+APPLICATION	Car_Generic &lt;insert.your.version.no&gt; #120 (win64-9.1.1)
+COMPILED	student@desktop-35mn2a9 2021-07-12 19:56:06
+ 
+FIRST_INIT	(internal default used)	2021-07-12 19:56:17
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:56:18
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-12 19:56:26
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Output Gas: 0.512798
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.173072, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.495564
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.906037, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	2.998
+		Output Gas: 0.342415
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.269515, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.190107
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.479957, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	4.998
+		Output Gas: 0.068816
+		Output Brake: 0.000000
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.953715, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.043623
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 12.163452, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.186199
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 14.876647, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	7.998
+		Output Gas: 0.000069
+		Output Brake: 0.343412
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 17.769103, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.486099
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 20.261052, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.568328
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 21.465787, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	10.998
+		Output Gas: 0.000069
+		Output Brake: 0.567552
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 20.999305, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.531463
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 19.859665, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.467175
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 18.212214, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	13.998
+		Output Gas: 0.000069
+		Output Brake: 0.379979
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 16.180594, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.274422
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 13.868913, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	15.998
+		Output Gas: 0.000069
+		Output Brake: 0.154164
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.359867, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000069
+		Output Brake: 0.022032
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.716570, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	17.998
+		Output Gas: 0.122939
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 5.924143, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.209298
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.403781, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	19.998
+		Output Gas: 0.264709
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.537700, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.333202
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 2.448042, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	21.998
+		Output Gas: 0.380966
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.807258, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	24.831
+		Output Gas: 0.408278
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.934341, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.292015
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.531429, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	26.831
+		Output Gas: 0.246059
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 5.639024, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.317520
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.399116, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	28.831
+		Output Gas: 0.529300
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.467977, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.427817
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 2.845550, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.331061
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 5.020260, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	31.831
+		Output Gas: 0.283751
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 6.141790, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.263649
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 6.687202, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.256261
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 6.962621, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	34.831
+		Output Gas: 0.254407
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.119047, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.255118
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.219142, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.257646
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.279743, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	37.831
+		Output Gas: 0.260415
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.333390, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.262114
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.405924, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.263019
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.491142, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	40.831
+		Output Gas: 0.263288
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.585490, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.262798
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.691051, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.257383
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.890237, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	43.831
+		Output Gas: 0.253495
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.049679, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.253079
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.135588, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.251580
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.239358, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	46.831
+		Output Gas: 0.249142
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.357474, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.245825
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.488159, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.241638
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.630800, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	49.831
+		Output Gas: 0.236640
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.783735, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.231084
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.941581, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.225174
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.100194, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	52.831
+		Output Gas: 0.219022
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.257297, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.212697
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.411649, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.206239
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.562551, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	55.831
+		Output Gas: 0.199734
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.708436, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.193211
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.848981, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.186654
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.984650, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	58.831
+		Output Gas: 0.180065
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.115647, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.173449
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.242044, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.166861
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.362903, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	61.831
+		Output Gas: 0.160361
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.477323, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.153915
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.586194, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	63.831
+		Output Gas: 0.147511
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.689952, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.141152
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.788792, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	65.831
+		Output Gas: 0.134862
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.882370, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.128750
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.968800, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	67.831
+		Output Gas: 0.122778
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.049098, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.116919
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.124044, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	69.831
+		Output Gas: 0.111163
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.194016, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.105511
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.259198, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	71.831
+		Output Gas: 0.100011
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.318847, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.094771
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.371060, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	73.831
+		Output Gas: 0.089726
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.417417, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.084839
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.458852, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	75.831
+		Output Gas: 0.080161
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.494550, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.075858
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.521500, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	77.831
+		Output Gas: 0.071804
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.542508, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.067942
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.558951, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	79.831
+		Output Gas: 0.064392
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.568605, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.061084
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.573155, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	81.831
+		Output Gas: 0.057946
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.574189, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.054952
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.572368, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	83.831
+		Output Gas: 0.052091
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.567999, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.049361
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.561253, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	85.831
+		Output Gas: 0.046759
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.552251, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.044284
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.541093, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	87.831
+		Output Gas: 0.041938
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.527872, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.039718
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.512678, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	89.831
+		Output Gas: 0.037626
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.495599, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.035659
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.476721, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	91.831
+		Output Gas: 0.033847
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.455519, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.032400
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.428009, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	93.831
+		Output Gas: 0.031167
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.397406, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.030060
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.365500, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	95.831
+		Output Gas: 0.029058
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.332825, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.028150
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.299559, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	97.831
+		Output Gas: 0.027335
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.265782, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.026612
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.231542, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	99.831
+		Output Gas: 0.025978
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.196877, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.025554
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.159437, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	101.831
+		Output Gas: 0.025185
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.122433, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024841
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.086360, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	103.831
+		Output Gas: 0.024512
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.051445, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024193
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.017666, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	105.831
+		Output Gas: 0.024044
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.981887, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024007
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.945304, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	107.831
+		Output Gas: 0.024063
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.908353, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024205
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.871150, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	109.831
+		Output Gas: 0.024433
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.833743, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024743
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.796173, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	111.831
+		Output Gas: 0.025359
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.754068, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.025971
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.713723, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	113.831
+		Output Gas: 0.026540
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.675824, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.026929
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.642893, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	115.831
+		Output Gas: 0.027547
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.606758, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.028316
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.569103, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	117.831
+		Output Gas: 0.029185
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.530941, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.030141
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.492604, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	119.831
+		Output Gas: 0.031176
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.454193, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.032291
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.415734, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	121.831
+		Output Gas: 0.033484
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.377237, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	122.694s	1195.57m
+TIME	124.771
+SIM_START	Examples/BasicFunctions/Driver/ChangingLanes	2021-07-12 19:58:02
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/ChangingLanes
+
+		Output Gas: 0.553117
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.025884, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.564440
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.196256, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	2.128
+		Output Gas: 0.513430
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.595808, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.341274
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 5.305459, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	4.128
+		Output Gas: 0.181153
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.627852, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.059460
+		Output Brake: 0.000077
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.065277, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	6.128
+		Output Gas: 0.000000
+		Output Brake: 0.065255
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 13.471951, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000000
+		Output Brake: 0.216099
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 16.295550, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	8.128
+		Output Gas: 0.000000
+		Output Brake: 0.371926
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 19.104145, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000000
+		Output Brake: 0.497756
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 21.211988, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	10.128
+		Output Gas: 0.000000
+		Output Brake: 0.539957
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 21.594401, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000000
+		Output Brake: 0.522733
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 20.801078, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	12.128
+		Output Gas: 0.000000
+		Output Brake: 0.473964
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 19.420769, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000000
+		Output Brake: 0.399151
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 17.584326, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	14.128
+		Output Gas: 0.000000
+		Output Brake: 0.303361
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 15.408931, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.000000
+		Output Brake: 0.190818
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 12.990649, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	16.128
+		Output Gas: 0.000000
+		Output Brake: 0.064847
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.404110, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.072027
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.705386, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	18.128
+		Output Gas: 0.192457
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 5.448909, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.230269
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.887479, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	20.128
+		Output Gas: 0.266380
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.381183, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.305091
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.843415, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	22.128
+		Output Gas: 0.352771
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.150380, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.411393
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 2.272155, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	24.128
+		Output Gas: 0.452082
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.778525, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.543090
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 0.319232, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	26.128
+		Output Gas: 0.425245
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 3.010728, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.442124
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 2.935775, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	28.128
+		Output Gas: 0.533859
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 1.449313, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.394517
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 4.516945, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	30.128
+		Output Gas: 0.307413
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 6.433363, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.276621
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.176277, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	32.128
+		Output Gas: 0.265124
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.512821, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.257948
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.753115, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	34.128
+		Output Gas: 0.254975
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.899875, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.256435
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 7.954837, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	36.128
+		Output Gas: 0.257320
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.018934, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.257600
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.092361, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	38.128
+		Output Gas: 0.257257
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.175141, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.256267
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.267364, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	40.128
+		Output Gas: 0.254601
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.369211, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.252226
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.480972, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	42.128
+		Output Gas: 0.249102
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.603058, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.245178
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.736013, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	44.128
+		Output Gas: 0.240409
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 8.880347, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.234944
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.032644, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	46.128
+		Output Gas: 0.229042
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.187517, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.222855
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.341881, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	48.128
+		Output Gas: 0.216472
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.494066, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.209941
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.643155, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	50.128
+		Output Gas: 0.203313
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.788299, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.196675
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.927947, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	52.128
+		Output Gas: 0.190018
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.062513, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.183333
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.192333, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	54.128
+		Output Gas: 0.176623
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.317545, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.169907
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.437980, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	56.128
+		Output Gas: 0.163279
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.551948, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.156725
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.660013, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	58.128
+		Output Gas: 0.150223
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.762814, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.143769
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.860642, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	60.128
+		Output Gas: 0.137367
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.953604, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.131119
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.039919, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	62.128
+		Output Gas: 0.125037
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.119580, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.119081
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.193652, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	64.128
+		Output Gas: 0.113236
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.262648, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.107499
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.326814, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	66.128
+		Output Gas: 0.101882
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.386103, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.096519
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.438084, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	68.128
+		Output Gas: 0.091378
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.483694, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.086408
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.524154, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	70.128
+		Output Gas: 0.081618
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.559488, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.077206
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.586023, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	72.128
+		Output Gas: 0.073072
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.606089, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.069131
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.621582, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	74.128
+		Output Gas: 0.065461
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.631136, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.062075
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.634752, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	76.128
+		Output Gas: 0.058877
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.634546, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.055831
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.631381, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	78.128
+		Output Gas: 0.052922
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.625639, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.050146
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.617523, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	80.128
+		Output Gas: 0.047501
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.607163, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.044985
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.594664, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	82.128
+		Output Gas: 0.042599
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.580121, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.040342
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.563624, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	84.128
+		Output Gas: 0.038212
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.545262, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.036210
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.525121, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	86.128
+		Output Gas: 0.034336
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.503259, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.032792
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.475771, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	88.128
+		Output Gas: 0.031515
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.444150, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.030381
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.410962, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	90.128
+		Output Gas: 0.029355
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.376954, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.028426
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.342367, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	92.128
+		Output Gas: 0.027592
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.307295, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.026850
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.271792, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	94.128
+		Output Gas: 0.026199
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.235896, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.025637
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.199642, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	96.128
+		Output Gas: 0.025165
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.163061, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024782
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.126183, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	98.128
+		Output Gas: 0.024486
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.089033, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024276
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.051639, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	100.128
+		Output Gas: 0.024153
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 11.014021, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024116
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.976204, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	102.128
+		Output Gas: 0.024163
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.938206, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024294
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.900045, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	104.128
+		Output Gas: 0.024510
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.861740, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.024808
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.823305, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	106.128
+		Output Gas: 0.025189
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.784756, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.025653
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.746104, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	108.128
+		Output Gas: 0.026198
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.707362, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.026825
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.668542, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	110.128
+		Output Gas: 0.027533
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.629653, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.028321
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.590706, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	112.128
+		Output Gas: 0.029191
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.551708, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.030140
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.512670, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	114.128
+		Output Gas: 0.031169
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.473599, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.032277
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.434501, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	116.128
+		Output Gas: 0.033465
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.395386, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.034737
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.356141, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	118.128
+		Output Gas: 0.036273
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.313262, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.038037
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.267597, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	120.128
+		Output Gas: 0.039920
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.221389, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.041832
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.176428, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	122.128
+		Output Gas: 0.043730
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.133509, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.045597
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.092882, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	124.128
+		Output Gas: 0.047427
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.054588, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.049216
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.018585, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.050964
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.984805, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	127.128
+		Output Gas: 0.052669
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.953171, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.054333
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.923603, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.055954
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.896023, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	130.128
+		Output Gas: 0.057533
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.870356, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.059070
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.846526, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.060564
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.824464, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	133.128
+		Output Gas: 0.062016
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.804101, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.063425
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.785373, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.064791
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.768215, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	136.128
+		Output Gas: 0.066115
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.752568, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.067395
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.738374, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.068636
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.725518, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	139.128
+		Output Gas: 0.069916
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.712392, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.071254
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.698655, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.072591
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.685466, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	142.128
+		Output Gas: 0.073899
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.673363, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.075165
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.662562, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.076383
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.653130, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	145.128
+		Output Gas: 0.077550
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.645072, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.078664
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.638358, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.079725
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.632951, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	148.128
+		Output Gas: 0.080732
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.628804, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081686
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.625874, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.082586
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.624116, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	151.128
+		Output Gas: 0.083432
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.623486, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.084223
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.623944, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.084961
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.625449, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	154.128
+		Output Gas: 0.085643
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.627965, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.086271
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.631454, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.086844
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.635883, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	157.128
+		Output Gas: 0.087362
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.641218, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.087825
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.647428, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.088232
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.654483, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	160.128
+		Output Gas: 0.088584
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.662355, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.088879
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.671016, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.089126
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.680296, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	163.128
+		Output Gas: 0.089301
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.690597, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.089428
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.701463, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.089497
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.713028, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	166.128
+		Output Gas: 0.089508
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.725277, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.089461
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.738191, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.089355
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.751752, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	169.128
+		Output Gas: 0.089189
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.765940, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.088965
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.780738, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.088680
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.796128, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	172.128
+		Output Gas: 0.088335
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.812094, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.087930
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.828621, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.087464
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.845694, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	175.128
+		Output Gas: 0.086937
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.863299, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.086347
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.881424, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.085696
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.900058, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	178.128
+		Output Gas: 0.084982
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.919188, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.084205
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.938804, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.083365
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.958896, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	181.128
+		Output Gas: 0.082460
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 9.979452, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081492
+		Output Brake: 0.000105
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.000464, 10.030864
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.239272
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.021347, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	184.128
+		Output Gas: 0.081392
+		Output Brake: 0.252586
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.040697, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.265832
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.057970, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.279019
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.073389, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	187.128
+		Output Gas: 0.081392
+		Output Brake: 0.292152
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.087154, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.305237
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.099441, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.318279
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.110410, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	190.128
+		Output Gas: 0.081392
+		Output Brake: 0.331284
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.120202, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.344254
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.128943, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.357194
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.136746, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	193.128
+		Output Gas: 0.081392
+		Output Brake: 0.370107
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.143711, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.382995
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.149929, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.395862
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.155480, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	196.128
+		Output Gas: 0.081392
+		Output Brake: 0.408710
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.160434, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.421541
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.164857, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.434356
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.168805, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	199.128
+		Output Gas: 0.081392
+		Output Brake: 0.447157
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.172330, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.459946
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.175476, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.472724
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.178284, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	202.128
+		Output Gas: 0.081392
+		Output Brake: 0.485493
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.180791, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.498253
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.183029, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.511004
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.185027, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	205.128
+		Output Gas: 0.081392
+		Output Brake: 0.523749
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.186810, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.536488
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.188402, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.549221
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.189823, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	208.128
+		Output Gas: 0.081392
+		Output Brake: 0.561950
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.191091, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.574674
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.192223, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.587394
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.193234, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	211.128
+		Output Gas: 0.081392
+		Output Brake: 0.600110
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.194136, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.612823
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.194941, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.625534
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.195660, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	214.128
+		Output Gas: 0.081392
+		Output Brake: 0.638242
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.196301, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.650948
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.196874, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+		Output Gas: 0.081392
+		Output Brake: 0.663651
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.197384, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+TIME	217.128
+		Output Gas: 0.081392
+		Output Brake: 0.676353
+		Output Steering: 0.000000
+		Debug Velocity Ego, Desired: 10.197839, 3.858025
+		Debug Distance to Object, Desired: 0.000000, -1.000000
+		Debug Distance to Lane Center: -1.000000
+		
+
+
+
+SIM_END		Examples/BasicFunctions/Driver/ChangingLanes	217.236s	2168.5m
+SHUTDOWN	CarMaker quick shutdown initiated
+
